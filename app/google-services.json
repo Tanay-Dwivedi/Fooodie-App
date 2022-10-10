@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254507784287",
+    "project_id": "fooodie-app-2570c",
+    "storage_bucket": "fooodie-app-2570c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254507784287:android:5fd1ffae39513f098563ea",
+        "android_client_info": {
+          "package_name": "com.food.fooodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254507784287-g1e64ub3rq5fcr9gkjt2guva312fj6iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0UOYRhVupp_Up9hG1FaQFVxAHYZ6xNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254507784287-g1e64ub3rq5fcr9gkjt2guva312fj6iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
